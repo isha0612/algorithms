@@ -1,4 +1,4 @@
-// Top-Down
+// Bottom-Up
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -28,7 +28,7 @@ int main() {
     cout<<knapsack(k, weight, n, dp);
 }
 
-// Bottom-Up
+// Top-Down
 #include <bits/stdc++.h>
 using namespace std; 
 
